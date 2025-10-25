@@ -1,4 +1,4 @@
-name: Drowsiness-Detection-System
+                           Drowsiness-Detection-System
 description: >
   Real-time driver drowsiness detection using YOLO and Pygame. 
   Detects eye closure and triggers an alarm if drowsiness is detected. 
@@ -60,3 +60,4 @@ potential_extensions:
   - Add logging to record drowsiness events
   - Combine with heart rate or facial landmarks for more robust detection
 license: MIT
+
